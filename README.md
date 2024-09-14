@@ -41,6 +41,7 @@ KELAS       : SK3B
 baru.
 
   <img width="500" alt="Gambar WhatsApp 2024-09-14 pukul 14 00 03_638dc777" src="https://github.com/user-attachments/assets/4d45b82d-ec02-45f9-805d-d71b172ba551">
+
 2. Lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output 
 ke file baru tanpa menghapus file baru sebelumnya.
 
