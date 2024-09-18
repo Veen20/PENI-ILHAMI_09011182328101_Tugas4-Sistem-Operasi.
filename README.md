@@ -39,22 +39,21 @@ KELAS       : SK3B
 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file 
 baru.
 
-  <img width="500" alt="Gambar WhatsApp 2024-09-14 pukul 14 00 03_638dc777" src="https://github.com/user-attachments/assets/4d45b82d-ec02-45f9-805d-d71b172ba551">
+  <img width="500" alt="Gambar WhatsApp 2024-09-18 pukul 13 01 03_ce62f4f3" src="https://github.com/user-attachments/assets/089f9536-9479-4d94-aaf2-e9eb3eff22f5">
 
 2. Lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output 
 ke file baru tanpa menghapus file baru sebelumnya.
 
-  <img width="500" alt="Gambar WhatsApp 2024-09-14 pukul 14 14 37_4fd915ac" src="https://github.com/user-attachments/assets/f932da1d-a152-4686-a93c-24edee1d2949">
-
+  <img width="500" alt="Gambar WhatsApp 2024-09-18 pukul 13 01 03_a6b1f7c2" src="https://github.com/user-attachments/assets/1bf3c1b6-7544-4d90-ac12-721194f26cfa">
 
 3. Urutkan file baru dengan cara membelokkan standard input. 
 
-  <img width="500" alt="Gambar WhatsApp 2024-09-14 pukul 14 15 40_6a22986f" src="https://github.com/user-attachments/assets/aff73ec6-2a0d-4557-af22-6287848d5c46">
+  <img width="500" alt="Gambar WhatsApp 2024-09-18 pukul 13 01 01_2c8d2695" src="https://github.com/user-attachments/assets/db9e2d70-78ac-4c15-a773-9ceabbeaffb6">
 
 4. Urutkan file baru dengan cara membelokkan standard input dan standard output ke file 
 baru.urut. 
 
-  <img width="500" alt="Gambar WhatsApp 2024-09-14 pukul 14 15 38_a1f937a3" src="https://github.com/user-attachments/assets/de6ddc66-57b2-40fb-a02c-37f2bdde21d0">
+  <img width="500" alt="Gambar WhatsApp 2024-09-18 pukul 13 01 01_25744367" src="https://github.com/user-attachments/assets/8619dcfa-8b05-4e62-b5d5-9eab449d8873">
 
 5. Buatlah direktori latihan6 sebanyak 2 kali dan belokkan standard error ke file 
 rmdirerror.txt. 
