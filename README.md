@@ -2,8 +2,7 @@
 
 <div align="center">
 
-## LAPORAN PRAKTIKUM INSTALASI SISTEM OPERASI LINUX.
-
+## Praktikum 4 Proses Input Output I/O
 *Dosen Pengampu:*\
 Ahmad Heryanto, M. T.\
 Adi Hermansyah, M. T.\
